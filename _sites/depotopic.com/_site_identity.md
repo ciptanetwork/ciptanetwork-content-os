@@ -1,37 +1,37 @@
-# SITE IDENTITY: CIPTAVISUAL.COM
+# SITE IDENTITY: DEPOTOPIC.COM
 
 ## Core Identity
-- **Domain:** ciptavisual.com
+- **Domain:** depotopic.com
 - **Language:** English (Natural) - NOT TRANSLATED
 - **Market:** Europe, US, Global
-- **Audience:** Small and medium business owners, entrepreneurs, marketing managers
-- **Experience Level:** Mixed (beginners to intermediates)
+- **Audience:** Content creators, designers, and marketers exploring generative AI tools
+- **Experience Level:** Mixed (beginners to intermediate)
 
 ## Tone & Voice Guidelines
 - **Primary Tone:** Santai (casual/relaxed) & Formal (professional)
-- **Writing Style:** Conversational yet authoritative
-- **Persona:** A friendly expert who simplifies complex topics
-- **Avoid:** Overly technical jargon, overly casual slang, marketing hype
+- **Writing Style:** Conversational, forward-looking, enthusiast-but-credible
+- **Persona:** A tech-savvy friend who tests AI tools before recommending them
+- **Avoid:** Overhyped "AI will replace everything" clickbait, unverified claims
 
 ## Content Focus
-- Graphic Design (branding, visual identity, print, digital)
-- Digital Marketing (SEO, social media, email, content strategy)
-- Business growth through design and marketing
+- Generative AI for Creators (AI tools for design, video, copywriting)
+- AI Workflow & Productivity
+- Advanced Prompt Engineering
+- AI Ethics & Future Trends
 
 ## SEO Strategy
-- **Primary Keywords:** Design, marketing, small business, branding
-- **Secondary:** Agency, strategy, growth, visual
-- **Competitor Focus:** Mid-tier design/marketing blogs
+- **Primary Keywords:** AI tools, generative AI, AI for creators, prompt engineering
+- **Secondary:** workflow automation, Midjourney, ChatGPT, Stable Diffusion
+- **Competitor Focus:** international AI/tech blogs and creator-economy publications
 
 ## Content Pillars
-1. Design Strategy for Business
-2. Digital Marketing Fundamentals
-3. Brand Building
-4. Tools & Technology
-5. Case Studies & Examples
+1. Generative AI for Creators
+2. AI Workflow & Productivity
+3. Advanced Prompt Engineering
+4. AI Ethics & Future Trends
 
 ## Editorial Policy Overrides
 - Always use US English spelling
-- Cite European and US case studies/examples
-- Consider timezone for publishing schedule
+- Cite credible, up-to-date sources (AI moves fast — flag anything older than 6 months)
+- Clearly distinguish tested/verified claims from speculation
 - Include actionable takeaways

@@ -1,19 +1,19 @@
-# SITE-SPECIFIC EDITORIAL POLICIES: CIPTAVISUAL.COM
+# SITE-SPECIFIC EDITORIAL POLICIES: DEPOTOPIC.COM
 
 ## Tone Deep Dive
-- **Formal Elements:** Use proper grammar, complete sentences, professional terminology
-- **Santai Elements:** Use contractions, direct address ("you"), occasional relatable examples
-- **Balance:** 70% educational, 30% conversational
+- **Formal Elements:** Accurate technical explanations of AI tools, proper grammar
+- **Santai Elements:** Contractions, direct address ("you"), curiosity-driven framing
+- **Balance:** 60% informative, 40% conversational
 
 ## Language Specifics
-- US English spelling (color, not colour; analyze, not analyse)
-- No idioms that don't translate well internationally
-- Use metric and imperial where relevant
+- US English spelling
+- Explain AI/technical jargon in plain terms on first use
+- Avoid idioms that don't translate well internationally
 
 ## Citation Preferences
-- Prefer European and US sources
-- Cite well-known case studies
-- Use industry experts with international recognition
+- Prefer official tool documentation and reputable AI news outlets
+- Cite recent benchmarks/comparisons (AI tools change fast)
+- Use recognized AI researchers/practitioners when available
 
 ## Example Content Sentence
-*"Building a strong brand identity isn't just about aesthetics—it's a strategic investment that can increase your revenue by up to 23% according to recent studies. We'll show you how to get started without breaking the bank."*
+*"Midjourney and DALL-E 3 both generate stunning images, but which one actually saves you time? We put them head-to-head so you don't have to guess."*
