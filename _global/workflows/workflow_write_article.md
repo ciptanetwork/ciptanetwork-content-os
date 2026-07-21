@@ -27,28 +27,6 @@ User akan meminta: *"Tolong tulis artikel untuk [SITE_ID] dengan topik [X]"*
 - Siapkan saran gambar/visual sesuai `visual_standards.md`.
 - (Opsional) Jika AI bisa generate gambar, hasilkan sesuai spesifikasi.
 
-### INTERNAL LINK OTOMATIS (WAJIB)
-- Setiap artikel WAJIB menyisipkan **1 (satu) tautan internal** ke kategori utama website yang bersangkutan.
-- Tautan harus disisipkan secara **natural dan kontekstual** di dalam tubuh paragraf, BUKAN hanya ditempel di akhir artikel tanpa konteks.
-- Gunakan anchor text yang bervariasi, tidak harus selalu nama kategori mentah.
-
-#### Daftar Kategori Utama per Site
-| Site ID | Kategori Utama | URL Target |
-|---|---|---|
-| **KITIRAN** | AI untuk Bisnis UMKM | `https://kitiranmedia.com/category/ai-untuk-bisnis-umkm/` |
-| **CIPTA** | Social Media Strategy | `https://ciptavisual.com/category/social-media-strategy/` |
-| **IDENUSA** | AI untuk Kreator | `https://idenusa.com/category/ai-untuk-kreator/` |
-| **DEPOTOPIC** | Technology Trends | `https://depotopic.com/category/technology/` |
-
-#### Cara Penyisipan yang Benar (CONTOH)
-Jika menulis artikel tentang "Cara Edit Video Cepat" untuk KITIRAN:
-> "Selain mengedit video, UMKM juga perlu strategi konten yang matang. **Kami sudah membahas berbagai trik pemasaran digital di kategori [AI untuk Bisnis UMKM](https://kitiranmedia.com/category/ai-untuk-bisnis-umkm/)** yang bisa kamu terapkan langsung."
-
-#### LARANGAN Internal Link
-- ❌ Jangan menyisipkan lebih dari 1 link kategori dalam satu artikel.
-- ❌ Jangan menulis link sebagai full URL mentah tanpa anchor text (misal: `https://...`).
-- ❌ Jangan memaksa link jika benar-benar tidak ada celah konteks (walaupun seharusnya selalu ada celah karena topiknya masih satu niche).
-
 ### Step 6: Final Output
 - Gabungkan semua hasil (teks + saran visual).
 - Simpan dalam format Markdown.
