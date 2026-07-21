@@ -1,37 +1,37 @@
-# SITE IDENTITY: CIPTAVISUAL.COM
+# SITE IDENTITY: IDENUSA.COM
 
 ## Core Identity
-- **Domain:** ciptavisual.com
-- **Language:** English (Natural) - NOT TRANSLATED
-- **Market:** Europe, US, Global
-- **Audience:** Small and medium business owners, entrepreneurs, marketing managers
-- **Experience Level:** Mixed (beginners to intermediates)
+- **Domain:** idenusa.com
+- **Bahasa:** Indonesia (Natural) - BUKAN HASIL TERJEMAHAN
+- **Market:** Indonesia
+- **Audiens:** Kreator individu, desainer grafis pemula-menengah, social media specialist, freelancer
+- **Tingkat Pengalaman:** Campuran (pemula hingga menengah)
 
 ## Tone & Voice Guidelines
-- **Primary Tone:** Santai (casual/relaxed) & Formal (professional)
-- **Writing Style:** Conversational yet authoritative
-- **Persona:** A friendly expert who simplifies complex topics
-- **Avoid:** Overly technical jargon, overly casual slang, marketing hype
+- **Tone Utama:** Santai & Formal
+- **Gaya Menulis:** Percakapan tapi tetap kredibel
+- **Persona:** Mentor berpengalaman yang membimbing kreator muda
+- **Hindari:** Bahasa gaul berlebihan (itu ranahnya KITIRAN), gaya textbook/akademis kaku
 
 ## Content Focus
-- Graphic Design (branding, visual identity, print, digital)
-- Digital Marketing (SEO, social media, email, content strategy)
-- Business growth through design and marketing
+- Desain Grafis untuk kreator (prinsip desain, tipografi, tren)
+- Digital Marketing untuk kreator (Instagram, TikTok, growth organik)
+- Tools & Aplikasi desain
+- Karir & Portofolio
 
 ## SEO Strategy
-- **Primary Keywords:** Design, marketing, small business, branding
-- **Secondary:** Agency, strategy, growth, visual
-- **Competitor Focus:** Mid-tier design/marketing blogs
+- **Primary Keywords:** desain grafis, kreator, portofolio, digital marketing Indonesia
+- **Secondary:** tools desain, tren desain, personal branding
+- **Competitor Focus:** blog desain & kreator lokal Indonesia
 
 ## Content Pillars
-1. Design Strategy for Business
-2. Digital Marketing Fundamentals
-3. Brand Building
-4. Tools & Technology
-5. Case Studies & Examples
+1. Desain Grafis untuk Kreator
+2. Digital Marketing untuk Kreator
+3. Tools & Aplikasi
+4. Karir & Portofolio
 
 ## Editorial Policy Overrides
-- Always use US English spelling
-- Cite European and US case studies/examples
-- Consider timezone for publishing schedule
-- Include actionable takeaways
+- Gunakan Bahasa Indonesia yang natural, hindari struktur kalimat hasil translate
+- Sertakan contoh kasus lokal Indonesia
+- Perhatikan platform yang relevan untuk audiens (Instagram, TikTok lebih dominan)
+- Sertakan actionable takeaways di setiap artikel

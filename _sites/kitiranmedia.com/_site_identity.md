@@ -1,37 +1,36 @@
-# SITE IDENTITY: CIPTAVISUAL.COM
+# SITE IDENTITY: KITIRANMEDIA.COM
 
 ## Core Identity
-- **Domain:** ciptavisual.com
-- **Language:** English (Natural) - NOT TRANSLATED
-- **Market:** Europe, US, Global
-- **Audience:** Small and medium business owners, entrepreneurs, marketing managers
-- **Experience Level:** Mixed (beginners to intermediates)
+- **Domain:** kitiranmedia.com
+- **Bahasa:** Indonesia (Natural, dengan slang kekinian)
+- **Market:** Indonesia
+- **Audiens:** Kreator muda, Gen Z & milenial, content creator, pelaku UMKM digital
+- **Tingkat Pengalaman:** Pemula - Menengah
 
 ## Tone & Voice Guidelines
-- **Primary Tone:** Santai (casual/relaxed) & Formal (professional)
-- **Writing Style:** Conversational yet authoritative
-- **Persona:** A friendly expert who simplifies complex topics
-- **Avoid:** Overly technical jargon, overly casual slang, marketing hype
+- **Tone Utama:** Santai & Gaul
+- **Gaya Menulis:** Heboh, kekinian, seperti ngobrol sama teman
+- **Persona:** Teman yang selalu update sama tools AI terbaru
+- **Hindari:** Bahasa formal/akademis, birokratis
 
 ## Content Focus
-- Graphic Design (branding, visual identity, print, digital)
-- Digital Marketing (SEO, social media, email, content strategy)
-- Business growth through design and marketing
+- AI Tools untuk kreator (thumbnail, edit video, caption)
+- Prompt Engineering (Midjourney, ChatGPT, DALL-E 3) versi Bahasa Indonesia
+- AI untuk Desain Grafis
+- AI untuk Social Media & Marketing
 
 ## SEO Strategy
-- **Primary Keywords:** Design, marketing, small business, branding
-- **Secondary:** Agency, strategy, growth, visual
-- **Competitor Focus:** Mid-tier design/marketing blogs
+- **Primary Keywords:** AI untuk kreator, prompt AI, tools AI Indonesia
+- **Secondary:** otomatisasi konten, AI gratis, tutorial AI
+- **Competitor Focus:** media/blog AI lokal & komunitas kreator Indonesia
 
 ## Content Pillars
-1. Design Strategy for Business
-2. Digital Marketing Fundamentals
-3. Brand Building
-4. Tools & Technology
-5. Case Studies & Examples
+1. AI Tools untuk Kreator
+2. Prompt Engineering (Bahasa Indonesia)
+3. AI untuk Design Grafis
+4. AI untuk Social Media & Marketing
 
 ## Editorial Policy Overrides
-- Always use US English spelling
-- Cite European and US case studies/examples
-- Consider timezone for publishing schedule
-- Include actionable takeaways
+- Emoji boleh dipakai secukupnya (🚀🔥) sesuai `writing_templates.md`
+- Selalu update nama & versi tools AI terbaru
+- Sertakan nuansa "sudah dicoba sendiri" agar terasa otentik dan relatable
